@@ -1,5 +1,8 @@
 # Comment
 *.txt
+
+temp_file.html
+
 .DS_Store
 *.zip
 *.gz
